@@ -1,1 +1,4 @@
-Part 1 Analysis is performed to carry out the meta-evaluation of automated evaluation metrics ROUGE aqnd BERTScore used in the text summarization.
+Part 1 Analysis is performed to carry out the meta-evaluation of automated evaluation metrics 
+ROUGE and BERTScore used in the text summarization. I have created the abstractive and extractive 
+text summarization systems to generate the 100 news articles containing protest events. And evaluated the generated 
+summaries using automated evaluation metrics ROUGE and BERTScore.
